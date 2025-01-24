@@ -6,14 +6,14 @@ Associated publication: https://doi.org/10.1021/acsestwater.2c00050
 FILES
 1)	ww_sampling_scales.Rproj: 		R project file needed to run main R script
 2)	main_ww_sampling_scales.R:		Main R script to run
-3)	data_ww_sampling_scales.xlsx: 	  Data used in main R script 
+3)	data_ww_sampling_scales.xlsx: 	    Data used in main R script 
 
 
 1) ww_sampling_scales.Rproj
-Necessary to run main R script. Save all files (includes this one) in the same directory before running main_handwashing_efficacy.R.
+Necessary to run main R script. Save all files (includes this one) in the same directory before running main_ww_sampling_scales.R.
 
 2) main_ww_sampling_scales.R
-The main script for the analysis. This script is used to determine whether there are significant differences among the log reduction values between different conditions.
+The main script for the analysis. This script is used to determine the association between wastewater measurements and COVID-19 case data at different sampling scales.
 
 3) data_ww_sampling_scales.xlsx
 [Original data source: https://doi.org/10.25740/vm787sj6177]
