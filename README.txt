@@ -6,7 +6,7 @@ Associated publication: https://doi.org/10.1021/acsestwater.2c00050
 FILES
 1)	ww_sampling_scales.Rproj: 		R project file needed to run main R script
 2)	main_ww_sampling_scales.R:		Main R script to run
-3)	data_ww_sampling_scales.xlsx: 	Data used in main R script 
+3)	data_ww_sampling_scales.xlsx: 	  Data used in main R script 
 
 
 1) ww_sampling_scales.Rproj
